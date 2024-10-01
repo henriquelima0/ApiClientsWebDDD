@@ -34,8 +34,9 @@ O projeto foi organizado em camadas seguindo o padrão **DDD (Domain-Driven Desi
  ┃ ┣ 📂 Mappings        # AutoMapper Profile
  ┃ ┗ 📂 Services        # Lógica de aplicação
  ┣ 📂 Domain
- ┃ ┣ 📂 Models          # Entidades do domínio (Client, Address, etc.)
- ┃ ┣ 📂 ValueObjects    # Objetos de Valor (AddressType)
+ ┃ ┣ 📂 Models          # Entidades do domínio (Client, Base)
+ ┃ ┣ ┣📂 ValueObjects    # Objetos de Valor (Address)
+ ┃ ┣ 📂 Enums           # Enums (TypeAddress)
  ┃ ┗ 📂 Interfaces      # Interfaces de Repositório
  ┣ 📂 Infrastructure
  ┃ ┣ 📂 Data            # DbContext e configurações de banco de dados
