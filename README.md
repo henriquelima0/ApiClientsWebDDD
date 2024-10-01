@@ -4,7 +4,7 @@ Um projeto de **CRUD de Clientes** desenvolvido em **.NET Core** com arquitetura
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%20Core-8.0-blue" alt=".NET Core 8.0">
-  <img src="https://img.shields.io/badge/Entity%20Framework-5.0-brightgreen" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/Entity%20Framework-8.0-brightgreen" alt="Entity Framework">
   <img src="https://img.shields.io/badge/Architecture-DDD-important" alt="Domain Driven Design">
 </p>
 
