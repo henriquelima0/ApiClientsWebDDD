@@ -26,7 +26,8 @@ Este projeto foi desenvolvido com o intuito de mostrar a aplicação prática do
 O projeto foi organizado em camadas seguindo o padrão **DDD (Domain-Driven Design)**:
 
 ```bash
-📦 ApiClientsDDD
+📦 ApiClientsDDD  
+ ┣ 📂 Presentation      # Controllers e configuração da API
  ┣ 📂 Application
  ┃ ┣ 📂 DTOs           # Data Transfer Objects
  ┃ ┣ 📂 Interfaces      # Interfaces de serviços
@@ -39,5 +40,5 @@ O projeto foi organizado em camadas seguindo o padrão **DDD (Domain-Driven Desi
  ┣ 📂 Infrastructure
  ┃ ┣ 📂 Data            # DbContext e configurações de banco de dados
  ┃ ┗ 📂 Repositories    # Implementações de repositórios
- ┣ 📂 Web               # Controllers e configuração da API
  ┗ README.md            # Documentação do projeto
+
