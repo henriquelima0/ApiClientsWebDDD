@@ -14,11 +14,12 @@ Este projeto foi desenvolvido com o intuito de mostrar a aplicação prática do
 
 ## 📚 **Principais Tecnologias**
 
-- **.NET Core 5.0**
+- **.NET Core 8.0**
 - **Entity Framework Core**
 - **AutoMapper**
 - **SQL Server** (para persistência de dados)
 - **DDD (Domain-Driven Design)**
+- **Swagger**
 
 ## 📂 **Arquitetura do Projeto**
 
