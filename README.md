@@ -29,7 +29,7 @@ O projeto foi organizado em camadas seguindo o padrão **DDD (Domain-Driven Desi
 📦 ApiClientsDDD  
  ┣ 📂 Presentation      # Controllers e configuração da API
  ┣ 📂 Application
- ┃ ┣ 📂 DTOs           # Data Transfer Objects
+ ┃ ┣ 📂 DTOs            # Data Transfer Objects
  ┃ ┣ 📂 Interfaces      # Interfaces de serviços
  ┃ ┣ 📂 Mappings        # AutoMapper Profile
  ┃ ┗ 📂 Services        # Lógica de aplicação
